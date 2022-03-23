@@ -1,6 +1,6 @@
 # student-site
 
-An example student website, hosted by [GitHub Pages](https://pages.github.com/).
+This is a part of learning exercise for OPIM 668 class
 
 View live in production at https://prof-rossetti.github.io/student-site.
 
