@@ -2,7 +2,7 @@
 
 This is a part of learning exercise for OPIM 668 class
 
-View live in production at https://prof-rossetti.github.io/student-site.
+View live in production at https://denizontas.github.io/OPIM668/.
 
 ![a demonstration of website functionality showing navigation between a few linked pages](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/e3ff575a3afab0f7b4a621a5246d05e51495759d/projects/personal-website/demo.gif)
 
