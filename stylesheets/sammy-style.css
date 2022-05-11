@@ -5,9 +5,6 @@ h1, .h1 {
     margin-bottom: 0.5rem;
     font-weight: 500;
     line-height: 1.5;
-  }
-
-h1, .h1 {
     font-size: calc(1.375rem + 1.9vw);
+    color: rgb(23, 23, 216);
   }
-h1 {color: rgb(26, 29, 207)}
